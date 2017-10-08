@@ -1,0 +1,13 @@
+inoremap ff <esc>
+inoremap cs<Tab> class <esc>o{<esc>o}<esc>bbea
+inoremap in<Tab> #include<iostream><esc>o#include<string><esc>o
+inoremap i;<Tab> #include<><esc>i
+inoremap i'<Tab> #include""<esc>i
+inoremap if<Tab> if()<esc>o{<esc>o}<esc>kkeei
+inoremap ;;<Tab> ::
+inoremap fr<Tab> for(int i=0;i<max;i++)<esc>o{<esc>o}<esc>bbbhi
+inoremap us<Tab> using namespace std ;<esc>o
+inoremap idf<Tab> #ifndef _DEF<esc>o#define _DEF<esc>o<esc>o#endif<esc>ki
+inoremap ''<Tab> ""<esc>i
+inoremap df<Tab> #define<esc>i
+inoremap mn<Tab> int main(int argc,char **argv)<esc>o{<esc>o<esc>o}<esc>ki<Tab>
