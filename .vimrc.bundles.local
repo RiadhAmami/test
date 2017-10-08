@@ -1,0 +1,4 @@
+Bundle 'WolfgangMehner/c.vim'
+Bundle 'hmybmny/vim.cpp'
+Bundle 'Rip-Rip/clang_complete'
+Bundle 'octol/vim-cpp-enhanced-highlight'
